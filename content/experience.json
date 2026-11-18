@@ -2,66 +2,64 @@
   "education": {
     "courses": [
       {
-        "course": "Master of Cuddle Sciences",
-        "institution": "Yaoyao's Lap Lab",
-        "year": "2024-2026"
+        "course": "PhD Student (BMCS)",
+        "institution": "Università degli Studi di Padova",
+        "year": "2026-Present"
       },
       {
-        "course": "Bachelor of Good Girl Arts",
-        "institution": "Home Sweet Home",
-        "year": "2020-2024"
+        "course": "Master Degree in Cybersecurity",
+        "institution": "Università degli Studi di Padova",
+        "year": "2022-2026"
+      },
+      {
+        "course": "Information Systems Engineering",
+        "institution": "Kocaeli University",
+        "year": "2016-2021"
       }
     ]
   },
-  "reviewing": [
-    { "venue": "International Conference on Treat Fairness 2026", "role": "Reviewer" },
-    { "venue": "Workshop on Cross-Species Play Dynamics 2025", "role": "Reviewer" }
-  ],
   "timeline": [
     {
-      "title": "Senior Cuddle Researcher",
-      "company": "The Cozy Corner",
-      "companyUrl": "#",
-      "location": "Next to Yaoyao",
-      "start": "2024-09-01",
-      "category": "research",
+      "title": "PhD Student",
+      "company": "Università degli Studi di Padova",
+      "companyUrl": "https://www.unipd.it/dottoratoscheda/brain-mind-computer-science",
+      "location": "Padova, Italy",
+      "start": "2026-11-01",
+      "category": "education",
       "roleType": "research",
       "isCurrent": true,
-      "summary": "Focus: warmth-seeking optimization and human-proximity maximization.",
+      "summary": "PhD Student in BMCS (Cybersecurity)",
       "highlights": [
-        "Achieved 100% lap occupation rate during work-from-home hours.",
-        "Discovered that paw shakes increase treat yield by 60%.",
-        "Co-authored a paper with Lucas on optimal sunbeam sharing schedules."
+        "Post-Quantum Secure Future Generation Networks",
+        "RF Fingerprinting",
+        "..."
       ]
     },
     {
-      "title": "Junior Play Companion",
-      "company": "Lucas & Cookie Inc.",
-      "companyUrl": "#",
-      "location": "Living Room",
-      "start": "2023-01-15",
-      "end": "2024-05-20",
-      "category": "research",
+      "title": "Spritzer",
+      "company": "SPRITZ",
+      "companyUrl": "https://spritz.math.unipd.it/team.html",
+      "location": "Padova, Italy",
+      "start": "2026-10-01",
+      "category": "work",
       "roleType": "research",
+      "isCurrent": true,
+      "summary": "PhD Student",
       "highlights": [
-        "Developed a multi-species play protocol with Ragdoll cat brother Lucas.",
-        "Optimized chase-and-tumble sequences for maximum fun with minimum furniture damage.",
-        "Won Best Duo Award at the annual living room play session."
+        
       ]
     },
     {
-      "title": "Treat Quality Intern",
-      "company": "Kitchen Counter Labs",
-      "companyUrl": "#",
-      "location": "Kitchen",
-      "start": "2025-06-01",
-      "end": "2025-08-31",
-      "category": "industry",
-      "roleType": "sde",
+      "title": "Master Degree in Cybersecurity",
+      "company": "Università degli Studi di Padova",
+      "companyUrl": "https://www.unipd.it/corsi-di-laurea/cybersecurity",
+      "location": "Padova, Italy",
+      "start": "2022-09",
+      "end": "2024-09",
+      "category": "education",
       "highlights": [
-        "Evaluated 200+ treat varieties using advanced sniff-and-taste methodology.",
-        "Reduced treat waste to 0% (consumed all samples).",
-        "Developed a paw-shake-to-treat conversion pipeline with 3x throughput improvement."
+        "Thesis on RF fingerprinting",
+        "Published a paper about post-quantum security."
       ]
     }
   ]
