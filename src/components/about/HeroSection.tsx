@@ -223,10 +223,9 @@ const HeroSection = ({ title, avatar, research = [], researchLogos = {}, educati
             {/* Welcome + contact */}
             <Flex w="full" direction={['column', 'column', 'row']} align={['center', 'center', 'center']} gap={[2, 2, 4]}>
               <Text fontSize="xs" color={textColor} lineHeight="tall" textAlign={['center', 'center', 'left']} flex={1} fontStyle="italic">
-                {siteConfig.tagline ?? ''}
               </Text>
               <HStack spacing={2} flexShrink={0}>
-                <Link href={`mailto:${siteOwner.contact.academicEmail}`} isExternal _hover={{ textDecoration: 'none' }}>
+                <Link href={`mailto:${siteOwner.contact.email}`} isExternal _hover={{ textDecoration: 'none' }}>
                   <HStack spacing={1.5} color={textColor} transition="all 0.15s" _hover={{ color: 'cyan.400' }}>
                     <DynamicIcon name="FaEnvelope" boxSize={3.5} />
                     <Text fontSize="xs" fontFamily="mono">email</Text>

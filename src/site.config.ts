@@ -60,7 +60,7 @@ export const siteOwner = {
   rotatingSubtitles: siteConfig.terminal.rotatingSubtitles,
   contact: {
     email: siteConfig.contact.email,
-    academicEmail: siteConfig.contact.academicEmail,
+    /**academicEmail: siteConfig.contact.academicEmail,**/
     hiringEmail: siteConfig.contact.hiringEmail,
     location: siteConfig.contact.location,
     linkedin: siteConfig.social.linkedin,
